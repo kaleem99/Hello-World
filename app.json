@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "TheBlazingGrill",
+    "slug": "TheBlazingGrill",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
